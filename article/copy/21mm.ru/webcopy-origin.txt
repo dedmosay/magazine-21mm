@@ -1,0 +1,412 @@
+Uri: http://21mm.ru/news/tehnologii/polnostyu-robotizirovannoe-proizvodstvo-akkumulyatorov-tesla-pokazali-na-video/
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\news\tehnologii\polnostyu-robotizirovannoe-proizvodstvo-akkumulyatorov-tesla-pokazali-na-video\index.htm
+Content Type: text/html
+
+Uri: http://21mm.ru/bitrix/images/main/composite/sprite-1x.png
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\images\main\composite\sprite-1x.png
+Content Type: image/png
+
+Uri: http://21mm.ru/bitrix/images/main/composite/sprite-2x.png
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\images\main\composite\sprite-2x.png
+Content Type: image/png
+
+Uri: http://21mm.ru/bitrix/images/main/composite/loading.gif
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\images\main\composite\loading.gif
+Content Type: image/gif
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/favicon.ico
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://21mm.ru/bitrix/cache/css/s1/artfactor/kernel_main/kernel_main_v1.css?160881573728822
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\cache\css\s1\artfactor\kernel_main\kernel_main_v1.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?15561952811861
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\js\ui\fonts\opensans\ui.font.opensans.min.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/css/main/font-awesome.min.css?149572608723748
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\css\main\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/cache/css/s1/artfactor/page_bb52dae13b4db88fd351f26ef3a71123/page_bb52dae13b4db88fd351f26ef3a71123_v1.css?1608815216857
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\cache\css\s1\artfactor\page_bb52dae13b4db88fd351f26ef3a71123\page_bb52dae13b4db88fd351f26ef3a71123_v1.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/cache/css/s1/artfactor/template_058527ecab71e798ebd4780315db8dd4/template_058527ecab71e798ebd4780315db8dd4_v1.css?16118427821015519
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\cache\css\s1\artfactor\template_058527ecab71e798ebd4780315db8dd4\template_058527ecab71e798ebd4780315db8dd4_v1.css
+Content Type: text/css
+
+Uri: http://21mm.ru/upload/comments_file/c49/c4946666eac7960d62878b3ce7d35a72.jpg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\comments_file\c49\c4946666eac7960d62878b3ce7d35a72.jpg
+Content Type: image/jpeg
+
+Uri: https://zen.yandex.ru/21mm
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\21mm.html
+Content Type: text/html
+
+Uri: http://petrocity.ru/
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/mm.journal/
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\mm.journal\index.htm
+Content Type: text/html
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/icheck-1.x/skins/minimal/minimal.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\icheck-1.x\skins\minimal\minimal.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/PickMeUp/pickmeup.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\PickMeUp\pickmeup.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Fira+Sans:400,400italic,500,700&subset=latin,cyrillic-ext,cyrillic
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Noto+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\css-2.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery-ui-1.11.4/jquery-ui.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery-ui-1.11.4\jquery-ui.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery-multiselect/jquery.multiselect.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery-multiselect\jquery.multiselect.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/slick/slick.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\slick\slick.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/custom-scrollbar/jquery.mCustomScrollbar.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\custom-scrollbar\jquery.mCustomScrollbar.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/jquery.bxslider.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\jquery.bxslider.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/chosen.jquery/chosen.min.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\chosen.jquery\chosen.min.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery.datetimepicker/jquery.datetimepicker.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery.datetimepicker\jquery.datetimepicker.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery.fancybox/jquery.fancybox.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery.fancybox\jquery.fancybox.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/css/jquery.modal/jquery.modal.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\css\jquery.modal\jquery.modal.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/remodal/jquery.remodal.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\remodal\jquery.remodal.css
+Content Type: text/css
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/css/Jcrop/jquery.Jcrop.css
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\css\Jcrop\jquery.Jcrop.css
+Content Type: text/css
+
+Uri: https://certify.alexametrics.com/atrk.gif?account=dV+ft1SZw320l9
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\atrk.gif
+Content Type: image/gif
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-NVFSKDL
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\ns.html
+Content Type: text/html
+
+Uri: https://relap.io/api/v6/head.js?token=MvCJ_N9b7hPuur-6"
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\api\v6\head.js
+Content Type: text/javascript
+
+Uri: http://21mm.ru/upload/main/6dc/6dc3851da4ca74c225b67df37481f6a5.jpeg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\main\6dc\6dc3851da4ca74c225b67df37481f6a5.jpeg
+Content Type: image/jpeg
+
+Uri: http://21mm.ru/upload/uf/910/9101343ec8a4a78d00badf96f32ead80.jpeg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\uf\910\9101343ec8a4a78d00badf96f32ead80.jpeg
+Content Type: image/jpeg
+
+Uri: http://21mm.ru/upload/resize_cache/iblock/d98/658_9999_1/d98f8a4475f24e2a1121d0221c0ec70c.jpg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\resize_cache\iblock\d98\658_9999_1\d98f8a4475f24e2a1121d0221c0ec70c.jpg
+Content Type: image/jpeg
+
+Uri: http://21mm.ru/upload/resize_cache/iblock/d98/600_400_1/d98f8a4475f24e2a1121d0221c0ec70c.jpg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\resize_cache\iblock\d98\600_400_1\d98f8a4475f24e2a1121d0221c0ec70c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/embed/zB8_HbrxUi8
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\embed\zB8_HbrxUi8.html
+Content Type: text/html
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/img/Final_news_ads_MM.png
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\img\Final_news_ads_MM.png
+Content Type: image/png
+
+Uri: http://21mm.ru/upload/resize_cache/uf/3f9/90_90_2/3f9d85dd4d496c318f4fecc169e89e77.jpg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\resize_cache\uf\3f9\90_90_2\3f9d85dd4d496c318f4fecc169e89e77.jpg
+Content Type: image/jpeg
+
+Uri: http://21mm.ru/upload/resize_cache/uf/910/60_60_2/9101343ec8a4a78d00badf96f32ead80.jpeg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\resize_cache\uf\910\60_60_2\9101343ec8a4a78d00badf96f32ead80.jpeg
+Content Type: image/jpeg
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/img/logo.png
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\img\logo.png
+Content Type: image/png
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/img/smile_button.svg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\img\smile_button.svg
+Content Type: image/svg+xml
+
+Uri: http://21mm.ru/upload/resize_cache/iblock/161/218_270_1/16133164af39d271e567146498b96c4f.jpg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\resize_cache\iblock\161\218_270_1\16133164af39d271e567146498b96c4f.jpg
+Content Type: image/jpeg
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/img/GroupStrokes2.png
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\img\GroupStrokes2.png
+Content Type: image/png
+
+Uri: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: http://21mm.ru/upload/medialibrary/2d0/2d040376dea0a82c89820a482ea2216c.jpg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\medialibrary\2d0\2d040376dea0a82c89820a482ea2216c.jpg
+Content Type: image/jpeg
+
+Uri: http://21mm.ru/upload/medialibrary/f69/f693d4685d8ea114721327eb0de4ea5c.jpg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\medialibrary\f69\f693d4685d8ea114721327eb0de4ea5c.jpg
+Content Type: image/jpeg
+
+Uri: http://21mm.ru/upload/medialibrary/b20/b20e42125b02ff40fa3e2741cbf45aaf.jpg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\medialibrary\b20\b20e42125b02ff40fa3e2741cbf45aaf.jpg
+Content Type: image/jpeg
+
+Uri: http://21mm.ru/upload/logo_nai.svg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\logo_nai.svg
+Content Type: image/svg+xml
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/images/logo_footer.png
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\images\logo_footer.png
+Content Type: image/png
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/images/16plus.png
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\images\16plus.png
+Content Type: image/png
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/images/instagram.png
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\images\instagram.png
+Content Type: image/png
+
+Uri: http://21mm.ru/upload/iblock/64c/64c73c62556f7272083d182690527dd1.jpg
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\upload\iblock\64c\64c73c62556f7272083d182690527dd1.jpg
+Content Type: image/jpeg
+
+Uri: http://maps.google.com/maps/api/js?sensor=false&key=AIzaSyAvFlCr0uVoAIavZUyTnV-LeZxL9iuGyEs
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\maps\api\js
+Content Type: text/javascript
+
+Uri: http://21mm.ru/bitrix/cache/js/s1/artfactor/kernel_main/kernel_main_v1.js?1556195807316269
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\cache\js\s1\artfactor\kernel_main\kernel_main_v1.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/cache/js/s1/artfactor/kernel_main_polyfill_promise/kernel_main_polyfill_promise_v1.js?15561953182506
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\cache\js\s1\artfactor\kernel_main_polyfill_promise\kernel_main_polyfill_promise_v1.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/js/main/loadext/loadext.min.js?1556195268810
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\js\main\loadext\loadext.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/js/main/loadext/extension.min.js?15561952681304
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\js\main\loadext\extension.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/js/main/core/core_db.min.js?155619523610247
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\js\main\core\core_db.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/js/main/core/core_frame_cache.min.js?155619525811334
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\js\main\core\core_frame_cache.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/cache/js/s1/artfactor/template_7de220c53e375a20cf6ff9e11e0bc372/template_7de220c53e375a20cf6ff9e11e0bc372_v1.js?155619531812877
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\cache\js\s1\artfactor\template_7de220c53e375a20cf6ff9e11e0bc372\template_7de220c53e375a20cf6ff9e11e0bc372_v1.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/cache/js/s1/artfactor/page_2a3a7563d0a8dd8abf8c4d8f5d2f1720/page_2a3a7563d0a8dd8abf8c4d8f5d2f1720_v1.js?1556195391111513
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\cache\js\s1\artfactor\page_2a3a7563d0a8dd8abf8c4d8f5d2f1720\page_2a3a7563d0a8dd8abf8c4d8f5d2f1720_v1.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/spin.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\spin.js
+Content Type: application/javascript
+
+Uri: http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\ajax\libs\jquery\3.1.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\es5-shims\0.0.2\es5-shims.min.js
+Content Type: application/x-javascript
+
+Uri: https://yastatic.net/share2/share.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\share2\share.js
+Content Type: application/javascript
+
+Uri: http://ulogin.ru/js/ulogin.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\js\ulogin.js
+Content Type: application/x-javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\ajax\libs\jquery\1.12.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery-ui-1.11.4/jquery-ui.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery-ui-1.11.4\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery-multiselect/jquery.multiselect.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery-multiselect\jquery.multiselect.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/slick/slick.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\slick\slick.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery.pixlayout.0.9.7.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery.pixlayout.0.9.7.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery.bxslider.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery.bxslider.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/chosen.jquery/chosen.jquery.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\chosen.jquery\chosen.jquery.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery.datetimepicker/jquery.datetimepicker.full.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery.datetimepicker\jquery.datetimepicker.full.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery.modal/jquery.modal.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery.modal\jquery.modal.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/Jcrop/jquery.Jcrop.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\Jcrop\jquery.Jcrop.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/Jcrop/jquery.color.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\Jcrop\jquery.color.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery.maskedinput.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/custom-scrollbar/jquery.mCustomScrollbar.concat.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\custom-scrollbar\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/flowplayer-6.0.5/flowplayer.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\flowplayer-6.0.5\flowplayer.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery.lazyload.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery.lazyload.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/icheck-1.x/icheck.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\icheck-1.x\icheck.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery.fancybox/jquery.fancybox.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery.fancybox\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/igor.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\igor.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/julia.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\julia.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/ololo.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\ololo.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/timur.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\timur.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/PickMeUp/jquery.pickmeup.min.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\PickMeUp\jquery.pickmeup.min.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/main.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\main.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/remodal/jquery.remodal.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\remodal\jquery.remodal.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery.limit.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery.limit.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/jquery.md5.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\jquery.md5.js
+Content Type: application/javascript
+
+Uri: http://21mm.ru/bitrix/templates/artfactor/js/wordf.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\bitrix\templates\artfactor\js\wordf.js
+Content Type: application/javascript
+
+Uri: http://yastatic.net/share2/share.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\share2\share-1.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-125334792-1
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://aibolit.me/
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\index-1.htm
+Content Type: text/html
+
+Uri: http://21bs.ru/index.php/bio
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\index.php\bio.html
+Content Type: text/html
+
+Uri: http://ainovikov.ru/diary/
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\diary\index.htm
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/13201312/1
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\watch\13201312\1.gif
+Content Type: image/gif
+
+Uri: https://counter.rambler.ru/top100.cnt?pid=6393983
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\top100.cnt
+Content Type: image/gif,image/gif
+
+Uri: https://unpkg.com/xregexp@4.4.1/xregexp-all.js
+File Name: C:\Users\Oleg\Documents\git\21mm\copy\21mm.ru\xregexp@4.4.1\xregexp-all.js
+Content Type: application/javascript
+
